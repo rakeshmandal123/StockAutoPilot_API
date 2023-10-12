@@ -1,0 +1,658 @@
+
+2023-05-31 12:13:26.787378- call of fyers fund
+2023-05-31 12:13:26.933831- call of fyers Holdings
+2023-05-31 12:13:27.081505- call of fyers Positions
+2023-05-31 12:13:27.780143- call for get fyers profile
+2023-05-31 12:13:28.014406- For getting curent price
+2023-05-31 12:13:29.180615- For getting curent price
+2023-05-31 12:13:30.360247- For getting curent price
+2023-05-31 12:13:31.521390- For getting curent price
+2023-05-31 12:13:32.693118- For getting curent price
+2023-05-31 12:13:33.859462- For getting curent price
+2023-05-31 12:13:35.029121- For getting curent price
+2023-05-31 12:13:35.109347- order placement NTPC, type-1
+2023-05-31 12:13:36.458111- For getting curent price
+2023-05-31 12:13:37.651400- For getting curent price
+2023-05-31 12:13:38.813683- For getting curent price
+2023-05-31 12:13:55.586647- call of fyers fund
+2023-05-31 12:13:55.753987- call of fyers Holdings
+2023-05-31 12:13:55.935287- call of fyers Positions
+2023-05-31 12:13:56.582295- call for get fyers profile
+2023-05-31 12:13:56.802736- For getting curent price
+2023-05-31 12:13:57.994428- For getting curent price
+2023-05-31 12:13:59.155373- For getting curent price
+2023-05-31 12:14:00.453334- For getting curent price
+2023-05-31 12:14:01.663987- For getting curent price
+2023-05-31 12:14:02.838132- For getting curent price
+2023-05-31 12:14:04.006352- For getting curent price
+2023-05-31 12:14:05.211459- For getting curent price
+2023-05-31 12:14:06.387103- For getting curent price
+2023-05-31 12:14:07.554085- For getting curent price
+2023-05-31 12:14:52.070504- call of fyers fund
+2023-05-31 12:14:52.302185- call of fyers Holdings
+2023-05-31 12:14:52.457731- call of fyers Positions
+2023-05-31 12:14:53.074629- call for get fyers profile
+2023-05-31 12:14:53.285528- For getting curent price
+2023-05-31 12:14:54.438607- For getting curent price
+2023-05-31 12:14:55.610418- For getting curent price
+2023-05-31 12:14:56.807738- For getting curent price
+2023-05-31 12:14:57.966391- For getting curent price
+2023-05-31 12:14:59.132469- For getting curent price
+2023-05-31 12:15:00.312421- For getting curent price
+2023-05-31 12:15:01.480688- For getting curent price
+2023-05-31 12:15:02.721876- For getting curent price
+2023-05-31 12:15:03.907505- For getting curent price
+2023-05-31 12:18:28.324317- call for get fyers profile
+2023-05-31 12:18:28.558980- For getting curent price
+2023-05-31 12:18:29.728194- For getting curent price
+2023-05-31 12:18:30.885579- For getting curent price
+2023-05-31 12:18:32.091310- For getting curent price
+2023-05-31 12:18:33.261034- For getting curent price
+2023-05-31 12:18:34.425745- For getting curent price
+2023-05-31 12:18:35.600149- For getting curent price
+2023-05-31 12:18:36.747343- For getting curent price
+2023-05-31 12:18:37.911018- For getting curent price
+2023-05-31 12:18:39.095243- For getting curent price
+2023-05-31 12:18:57.309633- call for get fyers profile
+2023-05-31 12:18:57.515456- For getting curent price
+2023-05-31 12:18:58.682306- For getting curent price
+2023-05-31 12:18:59.867060- For getting curent price
+2023-05-31 12:19:01.055972- For getting curent price
+2023-05-31 12:19:02.234254- For getting curent price
+2023-05-31 12:19:03.419728- For getting curent price
+2023-05-31 12:19:04.618693- For getting curent price
+2023-05-31 12:19:05.806392- For getting curent price
+2023-05-31 12:19:06.974058- For getting curent price
+2023-05-31 12:19:08.164531- For getting curent price
+2023-05-31 12:19:53.308805- call for get fyers profile
+2023-05-31 12:19:53.558589- For getting curent price
+2023-05-31 12:19:54.722131- For getting curent price
+2023-05-31 12:19:55.882533- For getting curent price
+2023-05-31 12:19:57.054347- For getting curent price
+2023-05-31 12:19:58.216625- For getting curent price
+2023-05-31 12:19:59.383931- For getting curent price
+2023-05-31 12:20:00.571090- For getting curent price
+2023-05-31 12:20:01.786245- For getting curent price
+2023-05-31 12:20:02.963877- For getting curent price
+2023-05-31 12:20:04.136772- For getting curent price
+2023-05-31 12:23:10.231138- call of fyers fund
+2023-05-31 12:23:10.416227- call of fyers Holdings
+2023-05-31 12:23:10.567559- call of fyers Positions
+2023-05-31 12:23:11.232385- call for get fyers profile
+2023-05-31 12:23:11.430139- For getting curent price
+2023-05-31 12:23:12.598290- For getting curent price
+2023-05-31 12:23:13.770132- For getting curent price
+2023-05-31 12:23:14.964805- For getting curent price
+2023-05-31 12:23:16.128751- For getting curent price
+2023-05-31 12:23:17.315801- For getting curent price
+2023-05-31 12:23:18.510247- For getting curent price
+2023-05-31 12:23:19.747569- For getting curent price
+2023-05-31 12:23:20.912403- For getting curent price
+2023-05-31 12:23:22.093073- For getting curent price
+2023-05-31 12:28:11.224859- call for get fyers profile
+2023-05-31 12:28:11.454867- For getting curent price
+2023-05-31 12:28:12.618025- For getting curent price
+2023-05-31 12:28:13.822810- For getting curent price
+2023-05-31 12:28:14.998024- For getting curent price
+2023-05-31 12:28:16.172088- For getting curent price
+2023-05-31 12:28:17.341002- For getting curent price
+2023-05-31 12:28:18.507273- For getting curent price
+2023-05-31 12:28:19.668514- For getting curent price
+2023-05-31 12:28:20.836387- For getting curent price
+2023-05-31 12:28:22.010190- For getting curent price
+2023-05-31 12:32:10.030389- call of fyers fund
+2023-05-31 12:32:10.185119- call of fyers Holdings
+2023-05-31 12:32:10.304241- call of fyers Positions
+2023-05-31 12:32:11.032170- call for get fyers profile
+2023-05-31 12:32:11.303445- For getting curent price
+2023-05-31 12:32:12.465500- For getting curent price
+2023-05-31 12:32:13.645055- For getting curent price
+2023-05-31 12:32:14.812198- For getting curent price
+2023-05-31 12:32:15.992297- For getting curent price
+2023-05-31 12:32:17.153682- For getting curent price
+2023-05-31 12:32:18.331345- For getting curent price
+2023-05-31 12:32:19.534786- For getting curent price
+2023-05-31 12:32:20.711512- For getting curent price
+2023-05-31 12:32:21.876249- For getting curent price
+2023-05-31 12:37:11.299297- call for get fyers profile
+2023-05-31 12:37:11.509253- For getting curent price
+2023-05-31 12:37:12.679384- For getting curent price
+2023-05-31 12:37:13.841043- For getting curent price
+2023-05-31 12:37:15.008042- For getting curent price
+2023-05-31 12:37:16.184022- For getting curent price
+2023-05-31 12:37:17.376487- For getting curent price
+2023-05-31 12:37:18.572284- For getting curent price
+2023-05-31 12:37:19.748540- For getting curent price
+2023-05-31 12:37:20.906581- For getting curent price
+2023-05-31 12:37:22.084791- For getting curent price
+2023-05-31 12:40:32.430675- call of fyers fund
+2023-05-31 12:40:32.579448- call of fyers Holdings
+2023-05-31 12:40:32.700463- call of fyers Positions
+2023-05-31 12:40:33.425226- call for get fyers profile
+2023-05-31 12:40:33.647681- For getting curent price
+2023-05-31 12:40:34.801359- For getting curent price
+2023-05-31 12:40:36.006529- For getting curent price
+2023-05-31 12:40:37.182943- For getting curent price
+2023-05-31 12:40:38.345952- For getting curent price
+2023-05-31 12:40:39.504222- For getting curent price
+2023-05-31 12:40:40.655550- For getting curent price
+2023-05-31 12:40:41.818392- For getting curent price
+2023-05-31 12:40:43.008839- For getting curent price
+2023-05-31 12:40:44.170605- For getting curent price
+2023-05-31 12:42:39.996017- call of fyers fund
+2023-05-31 12:42:40.170226- call of fyers Holdings
+2023-05-31 12:42:40.330828- call of fyers Positions
+2023-05-31 12:42:41.317430- call for get fyers profile
+2023-05-31 12:42:41.512534- For getting curent price
+2023-05-31 12:42:42.672280- For getting curent price
+2023-05-31 12:42:43.821505- For getting curent price
+2023-05-31 12:42:44.974055- For getting curent price
+2023-05-31 12:42:46.142303- For getting curent price
+2023-05-31 12:42:47.341425- For getting curent price
+2023-05-31 12:42:48.512196- For getting curent price
+2023-05-31 12:42:49.686176- For getting curent price
+2023-05-31 12:42:50.844663- For getting curent price
+2023-05-31 12:42:52.015847- For getting curent price
+2023-05-31 12:47:42.344077- call for get fyers profile
+2023-05-31 12:47:42.604104- For getting curent price
+2023-05-31 12:47:43.775105- For getting curent price
+2023-05-31 12:47:44.966230- For getting curent price
+2023-05-31 12:47:46.134977- For getting curent price
+2023-05-31 12:47:47.317573- For getting curent price
+2023-05-31 12:47:48.488684- For getting curent price
+2023-05-31 12:47:49.684042- For getting curent price
+2023-05-31 12:47:50.867061- For getting curent price
+2023-05-31 12:47:52.065599- For getting curent price
+2023-05-31 12:47:53.240797- For getting curent price
+2023-05-31 13:32:42.312470- call for get fyers profile
+2023-05-31 13:32:42.625511- For getting curent price
+2023-05-31 13:32:43.792982- For getting curent price
+2023-05-31 13:32:45.023266- For getting curent price
+2023-05-31 13:32:46.207891- For getting curent price
+2023-05-31 13:32:47.353587- For getting curent price
+2023-05-31 13:32:48.532075- For getting curent price
+2023-05-31 13:32:49.704812- For getting curent price
+2023-05-31 13:32:50.871936- For getting curent price
+2023-05-31 13:32:52.039535- For getting curent price
+2023-05-31 13:32:53.313366- For getting curent price
+2023-05-31 13:36:23.731959- call of fyers fund
+2023-05-31 13:36:23.937496- call of fyers Holdings
+2023-05-31 13:36:24.126182- call of fyers Positions
+2023-05-31 13:36:24.707431- call for get fyers profile
+2023-05-31 13:36:24.929178- For getting curent price
+2023-05-31 13:36:26.154284- For getting curent price
+2023-05-31 13:36:27.339934- For getting curent price
+2023-05-31 13:36:28.521763- For getting curent price
+2023-05-31 13:36:29.694735- For getting curent price
+2023-05-31 13:36:30.848661- For getting curent price
+2023-05-31 13:36:32.023733- For getting curent price
+2023-05-31 13:36:33.215609- For getting curent price
+2023-05-31 13:36:34.398993- For getting curent price
+2023-05-31 13:36:35.557835- For getting curent price
+2023-05-31 13:41:24.713757- call for get fyers profile
+2023-05-31 13:41:24.983818- For getting curent price
+2023-05-31 13:41:26.164633- For getting curent price
+2023-05-31 13:41:27.356569- For getting curent price
+2023-05-31 13:41:28.540287- For getting curent price
+2023-05-31 13:41:29.760896- For getting curent price
+2023-05-31 13:41:30.981940- For getting curent price
+2023-05-31 13:41:32.168267- For getting curent price
+2023-05-31 13:41:33.399379- For getting curent price
+2023-05-31 13:41:34.575765- For getting curent price
+2023-05-31 13:41:35.741617- For getting curent price
+2023-05-31 13:46:20.464884- call of fyers fund
+2023-05-31 13:46:20.620689- call of fyers Holdings
+2023-05-31 13:46:20.760784- call of fyers Positions
+2023-05-31 13:46:21.464668- call for get fyers profile
+2023-05-31 13:46:21.776308- For getting curent price
+2023-05-31 13:46:22.995623- For getting curent price
+2023-05-31 13:46:24.171044- For getting curent price
+2023-05-31 13:46:24.315917- call of fyers fund
+2023-05-31 13:46:24.475011- call of fyers Holdings
+2023-05-31 13:46:24.619295- call of fyers Positions
+2023-05-31 13:46:24.737245- call for get fyers profile
+2023-05-31 13:46:24.964182- For getting curent price
+2023-05-31 13:46:25.315567- call for get fyers profile
+2023-05-31 13:46:25.364432- For getting curent price
+2023-05-31 13:46:25.558518- For getting curent price
+2023-05-31 13:46:26.160812- For getting curent price
+2023-05-31 13:46:26.544263- For getting curent price
+2023-05-31 13:46:26.747073- For getting curent price
+2023-05-31 13:46:27.334111- For getting curent price
+2023-05-31 13:46:27.723446- For getting curent price
+2023-05-31 13:46:27.925644- For getting curent price
+2023-05-31 13:46:28.494757- For getting curent price
+2023-05-31 13:46:28.919010- For getting curent price
+2023-05-31 13:46:29.087415- For getting curent price
+2023-05-31 13:46:29.686296- For getting curent price
+2023-05-31 13:46:30.081041- For getting curent price
+2023-05-31 13:46:30.257358- For getting curent price
+2023-05-31 13:46:30.874797- For getting curent price
+2023-05-31 13:46:31.240306- For getting curent price
+2023-05-31 13:46:31.445964- For getting curent price
+2023-05-31 13:46:32.046939- For getting curent price
+2023-05-31 13:46:32.430795- For getting curent price
+2023-05-31 13:46:32.609547- For getting curent price
+2023-05-31 13:46:33.216635- For getting curent price
+2023-05-31 13:46:33.780657- For getting curent price
+2023-05-31 13:46:34.373602- For getting curent price
+2023-05-31 13:46:34.977012- For getting curent price
+2023-05-31 13:46:35.542130- For getting curent price
+2023-05-31 13:46:36.150758- For getting curent price
+2023-05-31 14:07:51.290627- call of fyers fund
+2023-05-31 14:07:51.451017- call of fyers Holdings
+2023-05-31 14:07:51.601522- call of fyers Positions
+2023-05-31 14:07:52.291352- call for get fyers profile
+2023-05-31 14:07:52.564213- For getting curent price
+2023-05-31 14:07:53.777540- For getting curent price
+2023-05-31 14:07:55.010891- For getting curent price
+2023-05-31 14:07:56.227661- For getting curent price
+2023-05-31 14:07:57.594768- For getting curent price
+2023-05-31 14:07:58.783674- For getting curent price
+2023-05-31 14:07:59.960236- For getting curent price
+2023-05-31 14:08:01.143454- For getting curent price
+2023-05-31 14:08:02.617335- For getting curent price
+2023-05-31 14:08:03.917613- For getting curent price
+2023-05-31 14:12:52.318286- call for get fyers profile
+2023-05-31 14:12:52.585901- For getting curent price
+2023-05-31 14:12:53.777856- For getting curent price
+2023-05-31 14:12:54.963345- For getting curent price
+2023-05-31 14:12:56.118142- For getting curent price
+2023-05-31 14:12:57.301956- For getting curent price
+2023-05-31 14:12:58.485948- For getting curent price
+2023-05-31 14:12:59.674249- For getting curent price
+2023-05-31 14:13:00.850925- For getting curent price
+2023-05-31 14:13:02.042606- For getting curent price
+2023-05-31 14:13:03.294338- For getting curent price
+2023-05-31 14:17:52.307535- call for get fyers profile
+2023-05-31 14:17:52.508561- For getting curent price
+2023-05-31 14:17:53.700112- For getting curent price
+2023-05-31 14:17:54.860378- For getting curent price
+2023-05-31 14:17:56.036623- For getting curent price
+2023-05-31 14:17:57.205425- For getting curent price
+2023-05-31 14:17:58.349338- For getting curent price
+2023-05-31 14:17:59.534404- For getting curent price
+2023-05-31 14:18:00.683845- For getting curent price
+2023-05-31 14:18:01.846086- For getting curent price
+2023-05-31 14:18:03.047039- For getting curent price
+2023-05-31 14:21:29.580783- call of fyers fund
+2023-05-31 14:21:29.727824- call of fyers Holdings
+2023-05-31 14:21:29.906084- call of fyers Positions
+2023-05-31 14:21:30.577655- call for get fyers profile
+2023-05-31 14:21:30.800741- For getting curent price
+2023-05-31 14:21:31.966048- For getting curent price
+2023-05-31 14:21:33.149992- For getting curent price
+2023-05-31 14:21:34.323441- For getting curent price
+2023-05-31 14:21:35.491529- For getting curent price
+2023-05-31 14:21:36.649358- For getting curent price
+2023-05-31 14:21:37.814555- For getting curent price
+2023-05-31 14:21:39.014691- For getting curent price
+2023-05-31 14:21:40.210650- For getting curent price
+2023-05-31 14:21:41.372341- For getting curent price
+2023-05-31 14:22:52.314963- call for get fyers profile
+2023-05-31 14:22:52.567647- For getting curent price
+2023-05-31 14:22:53.733175- For getting curent price
+2023-05-31 14:22:54.922440- For getting curent price
+2023-05-31 14:22:56.105236- For getting curent price
+2023-05-31 14:22:57.290536- For getting curent price
+2023-05-31 14:22:58.464200- For getting curent price
+2023-05-31 14:22:59.651707- For getting curent price
+2023-05-31 14:23:00.840089- For getting curent price
+2023-05-31 14:23:02.024756- For getting curent price
+2023-05-31 14:23:03.221627- For getting curent price
+2023-05-31 14:26:30.586819- call for get fyers profile
+2023-05-31 14:26:30.831250- For getting curent price
+2023-05-31 14:26:32.022894- For getting curent price
+2023-05-31 14:26:33.192726- For getting curent price
+2023-05-31 14:26:34.360847- For getting curent price
+2023-05-31 14:26:35.530142- For getting curent price
+2023-05-31 14:26:36.685349- For getting curent price
+2023-05-31 14:26:37.856875- For getting curent price
+2023-05-31 14:26:39.043770- For getting curent price
+2023-05-31 14:26:40.228046- For getting curent price
+2023-05-31 14:26:41.419950- For getting curent price
+2023-05-31 14:27:55.117677- call for get fyers profile
+2023-05-31 14:27:55.358294- For getting curent price
+2023-05-31 14:27:56.550933- For getting curent price
+2023-05-31 14:27:57.722812- For getting curent price
+2023-05-31 14:27:58.905278- For getting curent price
+2023-05-31 14:28:00.063353- For getting curent price
+2023-05-31 14:28:01.265589- For getting curent price
+2023-05-31 14:28:02.454299- For getting curent price
+2023-05-31 14:28:03.670624- For getting curent price
+2023-05-31 14:28:04.856871- For getting curent price
+2023-05-31 14:28:06.019973- For getting curent price
+2023-05-31 14:31:30.584144- call for get fyers profile
+2023-05-31 14:31:30.820158- For getting curent price
+2023-05-31 14:31:31.978155- For getting curent price
+2023-05-31 14:31:33.129797- For getting curent price
+2023-05-31 14:31:34.305837- For getting curent price
+2023-05-31 14:31:35.457397- For getting curent price
+2023-05-31 14:31:36.649211- For getting curent price
+2023-05-31 14:31:37.825449- For getting curent price
+2023-05-31 14:31:39.003763- For getting curent price
+2023-05-31 14:31:40.186704- For getting curent price
+2023-05-31 14:31:41.350851- For getting curent price
+2023-05-31 14:32:52.297464- call for get fyers profile
+2023-05-31 14:32:52.517863- For getting curent price
+2023-05-31 14:32:53.701615- For getting curent price
+2023-05-31 14:32:54.861616- For getting curent price
+2023-05-31 14:32:56.010393- For getting curent price
+2023-05-31 14:32:57.160257- For getting curent price
+2023-05-31 14:32:58.314039- For getting curent price
+2023-05-31 14:32:59.496020- For getting curent price
+2023-05-31 14:33:00.675085- For getting curent price
+2023-05-31 14:33:01.820708- For getting curent price
+2023-05-31 14:33:03.001589- For getting curent price
+2023-05-31 14:36:30.588755- call for get fyers profile
+2023-05-31 14:36:30.798659- For getting curent price
+2023-05-31 14:36:31.954758- For getting curent price
+2023-05-31 14:36:33.127944- For getting curent price
+2023-05-31 14:36:34.315515- For getting curent price
+2023-05-31 14:36:35.467638- For getting curent price
+2023-05-31 14:36:36.645527- For getting curent price
+2023-05-31 14:36:37.813517- For getting curent price
+2023-05-31 14:36:38.973781- For getting curent price
+2023-05-31 14:36:40.157989- For getting curent price
+2023-05-31 14:36:41.320011- For getting curent price
+2023-05-31 14:37:52.305510- call for get fyers profile
+2023-05-31 14:37:52.543794- For getting curent price
+2023-05-31 14:37:53.726738- For getting curent price
+2023-05-31 14:37:54.897400- For getting curent price
+2023-05-31 14:37:56.042837- For getting curent price
+2023-05-31 14:37:57.231490- For getting curent price
+2023-05-31 14:37:58.379292- For getting curent price
+2023-05-31 14:37:59.570669- For getting curent price
+2023-05-31 14:38:00.776939- For getting curent price
+2023-05-31 14:38:01.958524- For getting curent price
+2023-05-31 14:38:03.150503- For getting curent price
+2023-05-31 14:41:30.576942- call for get fyers profile
+2023-05-31 14:42:52.293997- call for get fyers profile
+2023-05-31 14:44:39.635867- call of fyers fund
+2023-05-31 14:44:40.643283- call for get fyers profile
+2023-05-31 14:46:30.591013- call for get fyers profile
+2023-05-31 14:47:52.288518- call for get fyers profile
+2023-05-31 14:49:40.644876- call for get fyers profile
+2023-05-31 14:51:30.583423- call for get fyers profile
+2023-05-31 14:52:52.300024- call for get fyers profile
+2023-05-31 14:54:40.639600- call for get fyers profile
+2023-05-31 14:56:30.569821- call for get fyers profile
+2023-05-31 14:57:52.299161- call for get fyers profile
+2023-05-31 14:57:52.569631- For getting curent price
+2023-05-31 14:57:53.708492- For getting curent price
+2023-05-31 14:57:54.868554- For getting curent price
+2023-05-31 14:57:56.044777- For getting curent price
+2023-05-31 14:57:57.205953- For getting curent price
+2023-05-31 14:57:58.362559- For getting curent price
+2023-05-31 14:57:59.538124- For getting curent price
+2023-05-31 14:58:00.710259- For getting curent price
+2023-05-31 14:58:01.887098- For getting curent price
+2023-05-31 14:58:03.046719- For getting curent price
+2023-05-31 14:59:40.640219- call for get fyers profile
+2023-05-31 14:59:40.857773- For getting curent price
+2023-05-31 14:59:42.070711- For getting curent price
+2023-05-31 14:59:43.285737- For getting curent price
+2023-05-31 14:59:44.466342- For getting curent price
+2023-05-31 14:59:45.660628- For getting curent price
+2023-05-31 14:59:46.835112- For getting curent price
+2023-05-31 14:59:48.006018- For getting curent price
+2023-05-31 14:59:49.196417- For getting curent price
+2023-05-31 14:59:50.369377- For getting curent price
+2023-05-31 14:59:51.575404- For getting curent price
+2023-05-31 15:01:30.583781- call for get fyers profile
+2023-05-31 15:01:30.850940- For getting curent price
+2023-05-31 15:01:32.040472- For getting curent price
+2023-05-31 15:01:33.242909- For getting curent price
+2023-05-31 15:01:34.452355- For getting curent price
+2023-05-31 15:01:35.658569- For getting curent price
+2023-05-31 15:01:36.822202- For getting curent price
+2023-05-31 15:01:37.978875- For getting curent price
+2023-05-31 15:01:39.158151- For getting curent price
+2023-05-31 15:01:40.353700- For getting curent price
+2023-05-31 15:01:41.543462- For getting curent price
+2023-05-31 15:02:52.290296- call for get fyers profile
+2023-05-31 15:02:52.560343- For getting curent price
+2023-05-31 15:02:53.762531- For getting curent price
+2023-05-31 15:02:54.953451- For getting curent price
+2023-05-31 15:02:56.150212- For getting curent price
+2023-05-31 15:02:57.319495- For getting curent price
+2023-05-31 15:02:58.500200- For getting curent price
+2023-05-31 15:02:59.694443- For getting curent price
+2023-05-31 15:03:00.873026- For getting curent price
+2023-05-31 15:03:02.042563- For getting curent price
+2023-05-31 15:03:03.253374- For getting curent price
+2023-05-31 15:04:40.639085- call for get fyers profile
+2023-05-31 15:04:40.943772- For getting curent price
+2023-05-31 15:04:42.111473- For getting curent price
+2023-05-31 15:04:43.285726- For getting curent price
+2023-05-31 15:04:44.453199- For getting curent price
+2023-05-31 15:04:45.625086- For getting curent price
+2023-05-31 15:04:46.801142- For getting curent price
+2023-05-31 15:04:47.969146- For getting curent price
+2023-05-31 15:04:49.143021- For getting curent price
+2023-05-31 15:04:50.309903- For getting curent price
+2023-05-31 15:04:51.541604- For getting curent price
+2023-05-31 15:06:30.580155- call for get fyers profile
+2023-05-31 15:06:30.807411- For getting curent price
+2023-05-31 15:06:32.027169- For getting curent price
+2023-05-31 15:06:33.218256- For getting curent price
+2023-05-31 15:06:34.421750- For getting curent price
+2023-05-31 15:06:35.597886- For getting curent price
+2023-05-31 15:06:36.773814- For getting curent price
+2023-05-31 15:06:37.933273- For getting curent price
+2023-05-31 15:06:39.122872- For getting curent price
+2023-05-31 15:06:40.303868- For getting curent price
+2023-05-31 15:06:41.482877- For getting curent price
+2023-05-31 15:07:52.298869- call for get fyers profile
+2023-05-31 15:07:52.504255- For getting curent price
+2023-05-31 15:07:53.681191- For getting curent price
+2023-05-31 15:07:54.869922- For getting curent price
+2023-05-31 15:07:56.075501- For getting curent price
+2023-05-31 15:07:57.270204- For getting curent price
+2023-05-31 15:07:58.440642- For getting curent price
+2023-05-31 15:07:59.629585- For getting curent price
+2023-05-31 15:08:00.864640- For getting curent price
+2023-05-31 15:08:02.044704- For getting curent price
+2023-05-31 15:08:03.294284- For getting curent price
+2023-05-31 15:09:17.174481- call of fyers fund
+2023-05-31 15:09:17.334486- call of fyers Holdings
+2023-05-31 15:09:17.484520- call of fyers Positions
+2023-05-31 15:09:18.170130- call for get fyers profile
+2023-05-31 15:09:18.370428- For getting curent price
+2023-05-31 15:09:19.559703- For getting curent price
+2023-05-31 15:09:20.738505- For getting curent price
+2023-05-31 15:09:21.907947- For getting curent price
+2023-05-31 15:09:22.783924- call of fyers fund
+2023-05-31 15:09:22.925301- call of fyers Holdings
+2023-05-31 15:09:23.071663- call of fyers Positions
+2023-05-31 15:09:23.083658- For getting curent price
+2023-05-31 15:09:23.783907- call for get fyers profile
+2023-05-31 15:09:24.000114- For getting curent price
+2023-05-31 15:09:24.246345- For getting curent price
+2023-05-31 15:09:25.151899- For getting curent price
+2023-05-31 15:09:25.412513- For getting curent price
+2023-05-31 15:09:26.318314- For getting curent price
+2023-05-31 15:09:26.574129- For getting curent price
+2023-05-31 15:09:27.476594- For getting curent price
+2023-05-31 15:09:27.736785- For getting curent price
+2023-05-31 15:09:28.674430- For getting curent price
+2023-05-31 15:09:28.928939- For getting curent price
+2023-05-31 15:09:29.852262- For getting curent price
+2023-05-31 15:09:31.030520- For getting curent price
+2023-05-31 15:09:32.197108- For getting curent price
+2023-05-31 15:09:33.368384- For getting curent price
+2023-05-31 15:09:34.524197- For getting curent price
+2023-05-31 15:14:18.187137- call for get fyers profile
+2023-05-31 15:14:18.446166- For getting curent price
+2023-05-31 15:14:19.614317- For getting curent price
+2023-05-31 15:14:20.784852- For getting curent price
+2023-05-31 15:14:21.991170- For getting curent price
+2023-05-31 15:14:23.152001- For getting curent price
+2023-05-31 15:14:23.785082- call for get fyers profile
+2023-05-31 15:14:23.972933- For getting curent price
+2023-05-31 15:14:24.338987- For getting curent price
+2023-05-31 15:14:25.134836- For getting curent price
+2023-05-31 15:14:25.506489- For getting curent price
+2023-05-31 15:14:26.289659- For getting curent price
+2023-05-31 15:14:26.672873- For getting curent price
+2023-05-31 15:14:27.449585- For getting curent price
+2023-05-31 15:14:27.834755- For getting curent price
+2023-05-31 15:14:28.622658- For getting curent price
+2023-05-31 15:14:29.032480- For getting curent price
+2023-05-31 15:14:29.790475- For getting curent price
+2023-05-31 15:14:30.962989- For getting curent price
+2023-05-31 15:14:32.135178- For getting curent price
+2023-05-31 15:14:33.291279- For getting curent price
+2023-05-31 15:14:34.470016- For getting curent price
+2023-05-31 15:19:18.296382- call for get fyers profile
+2023-05-31 15:19:18.538557- For getting curent price
+2023-05-31 15:19:19.707537- For getting curent price
+2023-05-31 15:19:20.867532- For getting curent price
+2023-05-31 15:19:22.030830- For getting curent price
+2023-05-31 15:19:23.217270- For getting curent price
+2023-05-31 15:19:24.301010- call for get fyers profile
+2023-05-31 15:19:24.380999- For getting curent price
+2023-05-31 15:19:24.490982- For getting curent price
+2023-05-31 15:19:25.574164- For getting curent price
+2023-05-31 15:19:25.687034- For getting curent price
+2023-05-31 15:19:26.749776- For getting curent price
+2023-05-31 15:19:26.879791- For getting curent price
+2023-05-31 15:19:27.933771- For getting curent price
+2023-05-31 15:19:28.053919- For getting curent price
+2023-05-31 15:19:29.150312- For getting curent price
+2023-05-31 15:19:29.240307- For getting curent price
+2023-05-31 15:19:30.425315- For getting curent price
+2023-05-31 15:19:31.646757- For getting curent price
+2023-05-31 15:19:32.841199- For getting curent price
+2023-05-31 15:19:34.024504- For getting curent price
+2023-05-31 15:19:35.218650- For getting curent price
+2023-05-31 15:24:18.316105- call for get fyers profile
+2023-05-31 15:24:18.576752- For getting curent price
+2023-05-31 15:24:19.763820- For getting curent price
+2023-05-31 15:24:20.937499- For getting curent price
+2023-05-31 15:24:22.096823- For getting curent price
+2023-05-31 15:24:23.270063- For getting curent price
+2023-05-31 15:24:24.303754- call for get fyers profile
+2023-05-31 15:24:24.446880- For getting curent price
+2023-05-31 15:24:24.526910- For getting curent price
+2023-05-31 15:24:25.625615- For getting curent price
+2023-05-31 15:24:26.053201- For getting curent price
+2023-05-31 15:24:26.808199- For getting curent price
+2023-05-31 15:24:27.253478- For getting curent price
+2023-05-31 15:24:27.979338- For getting curent price
+2023-05-31 15:24:28.062690- order placement ONGC, type-1
+2023-05-31 15:24:28.405439- For getting curent price
+2023-05-31 15:24:29.445594- For getting curent price
+2023-05-31 15:24:29.557546- For getting curent price
+2023-05-31 15:24:30.704326- For getting curent price
+2023-05-31 15:24:31.859531- For getting curent price
+2023-05-31 15:24:33.016821- For getting curent price
+2023-05-31 15:24:34.172304- For getting curent price
+2023-05-31 15:24:35.323569- For getting curent price
+2023-05-31 15:29:18.187297- call for get fyers profile
+2023-05-31 15:29:18.419025- For getting curent price
+2023-05-31 15:29:19.596339- For getting curent price
+2023-05-31 15:29:20.818089- For getting curent price
+2023-05-31 15:29:21.982882- For getting curent price
+2023-05-31 15:29:23.189439- For getting curent price
+2023-05-31 15:29:23.790981- call for get fyers profile
+2023-05-31 15:29:23.965835- For getting curent price
+2023-05-31 15:29:24.347463- For getting curent price
+2023-05-31 15:29:25.144481- For getting curent price
+2023-05-31 15:29:25.539364- For getting curent price
+2023-05-31 15:29:26.310243- For getting curent price
+2023-05-31 15:29:26.718530- For getting curent price
+2023-05-31 15:29:27.478102- For getting curent price
+2023-05-31 15:29:27.912150- For getting curent price
+2023-05-31 15:29:28.658463- For getting curent price
+2023-05-31 15:29:29.098866- For getting curent price
+2023-05-31 15:29:29.860376- For getting curent price
+2023-05-31 15:29:31.097685- For getting curent price
+2023-05-31 15:29:32.267464- For getting curent price
+2023-05-31 15:29:33.439351- For getting curent price
+2023-05-31 15:29:34.597631- For getting curent price
+2023-05-31 15:32:05.619270- call of fyers fund
+2023-05-31 15:32:05.798409- call of fyers Holdings
+2023-05-31 15:32:05.928433- call of fyers Positions
+2023-05-31 15:32:06.623131- call for get fyers profile
+2023-05-31 15:32:06.801485- Fyers tradebook
+2023-05-31 15:42:33.200428- call of fyers fund
+2023-05-31 15:42:33.375868- call of fyers Holdings
+2023-05-31 15:42:33.517930- call of fyers Positions
+2023-05-31 15:42:34.201914- call for get fyers profile
+2023-05-31 15:45:38.473310- call of fyers fund
+2023-05-31 15:45:38.660306- call of fyers Holdings
+2023-05-31 15:45:38.797334- call of fyers Positions
+2023-05-31 15:45:39.456465- call for get fyers profile
+2023-05-31 15:45:53.103606- call of fyers fund
+2023-05-31 15:45:53.281675- call of fyers Holdings
+2023-05-31 15:45:53.426599- call of fyers Positions
+2023-05-31 15:45:54.091294- call for get fyers profile
+2023-05-31 15:50:54.093842- call for get fyers profile
+2023-05-31 15:55:54.103242- call for get fyers profile
+2023-05-31 16:53:32.262192- call of fyers fund
+2023-05-31 16:53:32.422488- call of fyers Holdings
+2023-05-31 16:53:32.543111- call of fyers Positions
+2023-05-31 16:53:33.273249- call for get fyers profile
+2023-05-31 16:55:14.743318- call of fyers fund
+2023-05-31 16:55:14.929315- call of fyers Holdings
+2023-05-31 16:55:15.062239- call of fyers Positions
+2023-05-31 16:55:15.732268- call for get fyers profile
+2023-05-31 16:56:41.294471- call of fyers fund
+2023-05-31 16:56:41.501459- call of fyers Holdings
+2023-05-31 16:56:41.618206- call of fyers Positions
+2023-05-31 16:56:42.290120- call for get fyers profile
+2023-05-31 16:58:25.485372- call of fyers fund
+2023-05-31 16:58:38.147733- call of fyers fund
+2023-05-31 16:58:55.354126- call of fyers fund
+2023-05-31 16:58:55.546504- call of fyers Holdings
+2023-05-31 16:58:55.667255- call of fyers Positions
+2023-05-31 16:58:56.333994- call for get fyers profile
+2023-05-31 17:03:56.346054- call for get fyers profile
+2023-05-31 17:08:57.328467- call for get fyers profile
+2023-05-31 17:09:08.134451- call of fyers fund
+2023-05-31 17:09:08.269448- call of fyers Holdings
+2023-05-31 17:09:08.423698- call of fyers Positions
+2023-05-31 17:09:09.140389- call for get fyers profile
+2023-05-31 17:53:49.044235- call of fyers fund
+2023-05-31 17:53:49.178300- call of fyers Holdings
+2023-05-31 17:53:49.321093- call of fyers Positions
+2023-05-31 17:53:50.051386- call for get fyers profile
+2023-05-31 17:58:50.050171- call for get fyers profile
+2023-05-31 18:03:50.057197- call for get fyers profile
+2023-05-31 18:04:35.367505- call of fyers fund
+2023-05-31 18:04:35.512561- call of fyers Holdings
+2023-05-31 18:04:35.683500- call of fyers Positions
+2023-05-31 18:04:36.358879- call for get fyers profile
+2023-05-31 18:08:46.175736- call of fyers fund
+2023-05-31 18:08:46.388435- call of fyers Holdings
+2023-05-31 18:08:46.516431- call of fyers Positions
+2023-05-31 18:08:47.170090- call for get fyers profile
+2023-05-31 18:09:06.593456- call of fyers fund
+2023-05-31 18:09:06.743388- call of fyers Holdings
+2023-05-31 18:09:06.870291- call of fyers Positions
+2023-05-31 18:09:07.593974- call for get fyers profile
+2023-05-31 18:14:07.617723- call for get fyers profile
+2023-05-31 18:19:07.611109- call for get fyers profile
+2023-05-31 18:24:07.604779- call for get fyers profile
+2023-05-31 18:26:13.390817- call of fyers fund
+2023-05-31 18:26:13.563815- call of fyers Holdings
+2023-05-31 18:26:13.735827- call of fyers Positions
+2023-05-31 18:26:14.398259- call for get fyers profile
+2023-05-31 18:26:54.120879- call of fyers fund
+2023-05-31 18:26:54.273876- call of fyers Holdings
+2023-05-31 18:26:54.425396- call of fyers Positions
+2023-05-31 18:26:55.127214- call for get fyers profile
+2023-05-31 18:30:46.429073- call of fyers fund
+2023-05-31 18:30:46.587102- call of fyers Holdings
+2023-05-31 18:30:46.720630- call of fyers Positions
+2023-05-31 18:30:47.434431- call for get fyers profile
+2023-05-31 18:33:08.223973- call of fyers fund
+2023-05-31 18:33:08.347657- call of fyers Holdings
+2023-05-31 18:33:08.474983- call of fyers Positions
+2023-05-31 18:33:09.217147- call for get fyers profile
+2023-05-31 18:38:09.246459- call for get fyers profile
+2023-05-31 18:42:15.077656- call of fyers fund
+2023-05-31 18:42:15.214748- call of fyers Holdings
+2023-05-31 18:42:15.357033- call of fyers Positions
+2023-05-31 18:42:16.083246- call for get fyers profile

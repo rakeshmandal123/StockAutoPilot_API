@@ -1,0 +1,9 @@
+smtplib
+ssl
+pandas
+pyodbc
+flask
+flask_cors
+fyers-apiv2
+jwt
+functools
